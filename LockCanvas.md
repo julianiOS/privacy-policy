@@ -13,8 +13,6 @@ This application is a completely offline application that does not collect, stor
 This app uses the following third-party SDKs, which are only used to provide app functionality and do not collect any of your data:
 • SnapKit (for UI layout), Privacy policy: SnapKit GitHub (SnapKit is an open source UI layout library and does not include data collection capabilities)
 
-• MBProgressHUD (for loading animations), Privacy policy: https://bukovinski.com/sdk-privacy/mbprogresshud/ (MBProgressHUD is only used for UI interaction and does not involve data collection)
-
 None of these SDKs involve the collection, storage, or transmission of user data.
 
 3. Children's Privacy Protection
