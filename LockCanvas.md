@@ -30,8 +30,8 @@ We may update this privacy policy from time to time, and all changes will be pos
 6. Contact Us
 
 If you have any questions about this privacy policy, please contact us as follows:
-Email: [zhangqiran2025@163.com]
+Email: [williamscott2025@163.com]
 
 ##### Contact
 
-If you have any questions or suggestions regarding this privacy policy, do not hesitate to contact me(zhangqiran2025@163.com).
+If you have any questions or suggestions regarding this privacy policy, do not hesitate to contact me(williamscott2025@163.com).
